@@ -1,0 +1,9 @@
+numpy
+scipy
+pandas
+matplotlib
+control
+pymoo
+ipywidgets
+jupyter
+requests
