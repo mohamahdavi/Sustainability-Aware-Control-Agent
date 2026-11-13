@@ -122,6 +122,10 @@ cd report_fa && xelatex report_fa.tex && xelatex report_fa.tex
 
 Developed under the guidance of the project advisor, whose feedback shaped the ten-part roadmap.
 
+## Acknowledgments
+
+We thank Mr. Morteza Hajji, PhD candidate under the supervision of Prof. Ali Akbar Safavi, for his consultation and feedback during the project.
+
 ## References
 
 The full, linked bibliography is in the report (`report_en/report_en.tex`). Main sources: ControlAgent (arXiv:2410.19811), AgenticControl (arXiv:2506.19160), Toolformer (arXiv:2302.04761), PAL (arXiv:2211.10435), ReAct (arXiv:2210.03629), NSGA-II (Deb et al., 2002), pymoo (Blank & Deb, 2020), python-control (Fuller et al., 2021), and the Control Tutorials for MATLAB & Simulink DC-motor example.
