@@ -5,7 +5,7 @@
 [![Report EN](https://img.shields.io/badge/Report-English%20PDF-b31b1b.svg)](Sustainability-Aware-Control-Agent/report_en/report_en.pdf)
 [![Report FA](https://img.shields.io/badge/Report-Persian%20XeLaTeX-2e7d32.svg)](Sustainability-Aware-Control-Agent/report_fa/report_fa.tex)
 
-An LLM-orchestrated, deterministic-tool assistant for control design that treats **environmental cost** as an explicit design criterion alongside closed-loop performance and robustness. Developed as a research project at **Sharif University of Technology**.
+An LLM-orchestrated, deterministic-tool assistant for control design that treats **environmental cost** as an explicit design criterion alongside closed-loop performance and robustness. Developed as a independent research project.
 
 > [!IMPORTANT]
 > **Core Architectural Rule:** The language model acts strictly as a planner, orchestrator, and interpreter. Every controller gain, pole, stability margin, and environmental metric is computed by deterministic Python tools (PID, LQR, MPC, NSGA-II, robustness, and sustainability evaluators). A deterministic **scope gate** and **number audit** constrain all model outputs to prevent numerical hallucination.
